@@ -1,23 +1,28 @@
 .about-all-box{
 
+    font-family: "Arsenal SC", sans-serif;
     margin: 3% 5% 3% 5%;
-    border-radius: 10px;
-
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
     width: 90%;
     height: 90%;
     background-color: #fff7ca;
 }
+
 .about-left{
     width: 50%;
     height: 100%;
-    background-image:radial-gradient(rgba(0, 0, 0, 0.648),black) ,url("/images/ant-resort4.jfif");
+    background-image:radial-gradient(rgba(0, 0, 0, 0.648),black) ,url("/she-code/images/ant-resort4.jfif");
     background-size: cover;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius:20px ;
     position: relative;
 }
 .about-location{
     position: absolute;
     left: 10%;
-    top: 40%;
+    top: 15%;
     color: rgba(255, 255, 255, 0.666);
 }
 .location-icon{
@@ -26,5 +31,58 @@
 .write-part{
     float: left;
     width: 50%;
-    margin-left: 5%;
+    margin-left: 10%;
+}
+.about-talk{
+    position: absolute;
+    left: 10%;
+    top: 45%;
+    color: rgba(255, 255, 255, 0.666);
+}
+.number{
+    color: green;
+    float: left;
+    margin-top: 3%;
+}
+.about-email{
+    position: absolute;
+    left: 10%;
+    top: 75%;
+    color: rgba(255, 255, 255, 0.666);
+}
+.about-right{
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+}
+
+.email-icon{
+    float: left;
+}
+.right-heading{
+    text-align: center;
+    color: #402a23;
+    font-size: 40px;
+    font-weight: 700;
+}
+.input{
+    width: 70%;
+    height: 30px;
+    margin: 1%;
+}
+.message{
+    width: 70%;
+    color: #402a23;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.send-message{
+    font-size: 15px;
+    padding: 2%;
+    background-color: #b5592a;
+    width: 30%;
+    border: none;
+    border-radius: 5px;
 }
