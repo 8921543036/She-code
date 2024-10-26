@@ -1,0 +1,634 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-image:radial-gradient(white,rgba(0, 0, 0, 0.043),#3c030362) ,url(images/bggg.jpg);
+    
+    height: 300px;
+    width: 500px;
+    
+    
+    
+    
+    
+    
+}
+
+    
+    
+    
+
+
+
+
+.container::before{
+    content: "";
+    position: absolute;
+    top: 0%;
+    background-color: rgb(0,0,0,0.5);
+}
+.items img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.items{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 90px;
+    top: 20px;
+    border-radius: 15px;
+}
+h4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    
+}
+.addcart{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    background-color: #3c0303;
+    color: white;
+    width: 100;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 4px;
+    
+    font-size: 15 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right,#3c0303,#8a0f0f);
+    border-radius: 5px;
+    
+
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+
+            
+            
+.items1 img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.items1{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 370px;
+    top: -250px;
+    border-radius: 15px;
+    
+}
+
+
+.addcart1{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    color: white;
+    width: 100;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 4px;
+    
+    font-size: 15 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right,#3c0303,#8a0f0f);
+    border-radius: 5px;
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+
+            
+            
+.items img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.items{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    border-radius: 15px;
+  
+}
+h4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    color: #3c0303;
+}
+.addcart2{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    color: white;
+    width: 100;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 4px;
+    
+    font-size: 15 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right,#3c0303,#8a0f0f);
+    border-radius: 5px;
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+.items1 img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.items1{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 350px;
+    top: -250px;
+    border-radius: 15px;
+}
+h4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    color: #3c0303;
+}
+.addcart3{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    color: white;
+    width: 100;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 4px;
+    
+    font-size: 15 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right,#3c0303,#8a0f0f);
+    border-radius: 5px;
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+
+            
+            
+.items2 img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.items2{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 650px;
+    top: -522px;
+    border-radius: 15px;
+}
+h4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    color: #3c0303;
+}
+.addcart4{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    color: white;
+    width: 100;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 4px;
+    
+    font-size: 15 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right,#3c0303,#8a0f0f);
+    border-radius: 5px;
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+.items3 img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+
+}
+.items3{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 950px;
+    top: -790px;
+    border-radius: 15px;
+}
+h4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    color: #3c0303;
+}
+.addcart5{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    color: white;
+    width: 100;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 4px;
+    
+    font-size: 15 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right,#3c0303,#8a0f0f);
+    border-radius: 5px;
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+.items4 img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.items4{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 50px;
+    top: -750px;
+    border-radius: 15px;
+    
+    
+}
+h4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    color: #3c0303;
+}
+.addcart6{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    color: white;
+    width: 100;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 4px;
+    
+    font-size: 15 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right,#3c0303,#8a0f0f);
+    border-radius: 5px;
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+.items5 img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.items5{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 350px;
+    top: -1020px;
+    border-radius: 25px;
+    
+    
+}
+h4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    color: #3c0303;
+}
+.addcart7{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    color: white;
+    width: 100;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 4px;
+    
+    font-size: 15 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right,#3c0303,#8a0f0f);
+    border-radius: 5px;
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+.items6 img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.items6{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 650px;
+    top: -1290px;
+    border-radius: 15px;
+    
+    
+}
+h4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    color: #3c0303;
+}
+.addcart8{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    color: white;
+    width: 100;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 4px;
+    
+    font-size: 15 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right,#3c0303,#8a0f0f);
+    border-radius: 5px;
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+.items7 img{
+    width: 229px;
+    height: 150px;
+    
+    position: relative;
+    left: -20px;
+    
+    top: -20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.items7{
+    background-color: #efbfc6;
+    padding: 20px;
+    
+    height: 230px;
+    width: 190px;
+    position: relative;
+    left: 950px;
+    top: -1560px;
+    border-radius: 15px;
+    
+    
+}
+h4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    color: #3c0303;
+}
+.addcart9{
+    position: relative;
+    top: -50px;
+    left: 50px;
+
+}
+h3{
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    
+}
+p{
+    position: relative;
+    top: -45px;
+    left: 50px;
+}
+
+
+
+
+
+
+
+            
+            
+
+
+
+            
+            
