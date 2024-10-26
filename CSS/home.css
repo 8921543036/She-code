@@ -1,0 +1,228 @@
+.navbar{
+    justify-content: space-between;
+    width: 100%;
+    height: 7%;
+    background-color: #fff7ca;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+body{
+    margin: 0;
+    height: 600px;
+    position: relative;
+    background-color: #b5592a;
+    
+}
+.logo{
+    text-decoration: none;
+    position: absolute;
+    left: 1%;
+    height: 80%;
+    font-weight: 600;
+    font-size: 40px;
+    margin: 0px;
+    float: left;
+    font-family: "Arsenal SC", sans-serif;
+    width: 40%;
+}
+ a{
+    text-decoration: none;
+    color:   #402a23;
+    cursor: none;
+}
+.menu-toggle{
+    height: 90%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 0;
+    display: none;
+}
+.menu-icon{
+    display: none;
+    color:#e0e2e0 ;
+    height: 90%;
+    width: 10%;
+    font-size: 30px;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}
+.nav-text{
+    color:  #402a23;
+    text-decoration: none;
+    
+    padding: 0px;
+}
+.nav-texts{
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: space-around;
+    gap: 5%;
+    display: flex;
+    font-size: 15px;
+    font-weight: 700;
+    position: absolute;
+    font-family: "Overpass", sans-serif;
+    bottom: 0%;
+    top: 0%;
+    right: 0%;
+    left: 60%;
+    width: 30%;
+}
+.ant-image{
+    width: 50%;
+    height: 100%;
+    transform: translate(-80px,0px);
+    animation: none;
+}
+
+@keyframes antmove {
+    0% {
+        transform: translate(-80px,0px);
+        width: 50%;
+        height: 100%;
+    }
+    100% {
+        transform:translate(-50px,-50px);
+        width: 10%;
+        height: 20%;
+}
+
+}
+@keyframes antmovereverse {
+    0% {
+        transform:translate(-50px,-50px);
+        width: 10%;
+        height: 20%;
+    }
+    100% {
+       
+        transform: translate(-80px,0px);
+        width: 50%;
+        height: 100%;
+}}
+.quotes-home{
+    position: absolute;
+    left: 30%;
+    top: 20%;
+}
+
+.home-quote-para{
+    font-size: 40px;
+    width: 70%;
+    font-family: "Overpass", sans-serif;
+    font-weight: 800;
+    margin: 4% 0% 3% 4%;
+  color:  #b5592a;
+
+}
+.home-body{
+    margin: 4%;
+    width: 92%;
+    height:80%;
+    border-radius: 10px;
+    background-color: #fff7ca;
+}
+.ante-resort-image1{
+    position: absolute;
+    width: 17%;
+    height: 40%;
+    left: 42%;
+    top: 55%;
+    border-radius: 10px;
+    float: right;
+    margin: 1%;
+    box-shadow: 2px 2px 2px black;
+}
+.ante-resort-image2{
+    position: absolute;
+    width: 17%;
+    height: 40%;
+    left: 61%;
+    top: 55%;
+    border-radius: 10px;
+    float: right;
+    margin: 1%;
+    box-shadow: 2px 2px 2px black;
+}
+.ante-resort-image3{
+    position: absolute;
+    width: 17%;
+    height: 40%;
+    left: 80%;
+    top: 55%;
+    border-radius: 10px;
+    float: right;
+    margin: 1%;
+    box-shadow: 2px 2px 2px black;
+}
+.small-quates-home{
+    font-size: 25px;
+    width: 60%;
+    font-family: "Overpass", sans-serif;
+    font-weight: 600;
+    margin:0% 0% 0% 4%;
+  color:  #a55540;
+}
+.Exploreus{
+    margin:0% 0% 0% 4%;
+    border: 2px solid #b5592a;
+    padding: 1%;
+    font-size: 18px;
+   font-weight: 700;
+    border-radius: 5px;
+     background-color: #b5592a;
+    color: #fff7ca;
+    box-shadow: 2px 2px 2px black;
+}
+.Exploreus:hover{
+    color: #b5592a;
+    background-color: #fff7ca;
+}
+.getimage1{
+    background-image: radial-gradient(rgba(0, 0, 0, 0.354),rgba(0, 0, 0, 0.816)), url("/images/ant-resort2.jfif");
+    background-size: 60% 100%;
+    background-color: rgb(0, 0, 0);
+    background-repeat: round;
+    animation: none;
+   
+}
+.getimage2{
+    background-image: radial-gradient(rgba(0, 0, 0, 0.354),rgba(0, 0, 0, 0.816)), url("/images/ant-resort1.jfif");
+    background-size: 60% 100%;
+    background-color: rgb(0, 0, 0);
+    background-repeat: round;
+    animation: none;
+   
+}
+.getimage3{
+    background-image: radial-gradient(rgba(0, 0, 0, 0.354),rgba(0, 0, 0, 0.816)), url("/images/ant-resort3.jfif");
+    background-size: 60% 100%;
+    background-color: rgb(0, 0, 0);
+    background-repeat: round;
+    animation: none;
+   
+}
+@keyframes quotemove {
+    0% {
+        left: 30%;
+        top: 20%;
+    }
+    100% {
+        left: 10%;
+        top: 20%;
+}
+
+}
+@keyframes quotemovereverse {
+    0% {
+        left: 10%;
+        top: 20%;
+    }
+    100% {
+        left: 30%;
+        top: 20%;
+}}

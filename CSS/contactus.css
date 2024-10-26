@@ -1,0 +1,30 @@
+.about-all-box{
+
+    margin: 3% 5% 3% 5%;
+    border-radius: 10px;
+
+    width: 90%;
+    height: 90%;
+    background-color: #fff7ca;
+}
+.about-left{
+    width: 50%;
+    height: 100%;
+    background-image:radial-gradient(rgba(0, 0, 0, 0.648),black) ,url("/images/ant-resort4.jfif");
+    background-size: cover;
+    position: relative;
+}
+.about-location{
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    color: rgba(255, 255, 255, 0.666);
+}
+.location-icon{
+    float: left;
+}
+.write-part{
+    float: left;
+    width: 50%;
+    margin-left: 5%;
+}
