@@ -1,0 +1,251 @@
+.resortimg{
+   margin-bottom: -10px; 
+   position: relative;
+
+}
+.resortimg h1{
+   position: absolute;
+   color: rgb(250, 219, 179);
+   font-size: 100px;
+   margin-left: 550px;
+   font-family: "DynaPuff", system-ui;
+   margin-top: 250px;
+}
+.resortimg p{
+   color: antiquewhite;
+   position: absolute;
+   margin-top: 380px;
+   margin-left: 400px; 
+   font-size: larger;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+   
+}
+span{
+    margin-left: 200px;
+ 
+
+}
+.line{
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 160px;
+}
+.view-button{
+    position: absolute;
+    background-color:rgb(227, 203, 170);
+    margin-top: 480px;
+    margin-left: 700px;
+    padding: 15px 15px;
+    width: 180px;
+    font-size: large;
+
+}
+.resortimg img{
+    height: 800px;
+    width: 1500px;
+}
+.bedroom{
+    background-image:url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1500px;
+    height: 700px;
+
+    
+    
+    
+}
+.heading{
+    font-size: 50px;
+    color: darkorange;
+    position:absolute;
+    margin-left: 630px;
+    margin-top: 60px;
+
+    
+
+}
+
+
+.images img{
+    width: 450px;
+    height: 300px;
+    margin-right: 30px;
+    position: relative;
+    
+    
+    
+
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+   
+    
+   
+}
+.wrapper{
+
+}
+.container1{
+    position: absolute;
+    top:62%;
+    background-color:rgba(0, 0, 0, 0.773);
+    width: 100%;
+    height: 38%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.container2{
+    position: absolute;
+    top:62%;
+    background-color:rgba(0, 0, 0, 0.773);
+    width: 100%;
+    height: 38%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.container3{
+    position: absolute;
+    top:62%;
+    background-color:rgba(0, 0, 0, 0.773);
+    width: 100%;
+    height: 38%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.room1{
+    background-image: url("/images/room1.jpg");
+    background-size: 100%;
+    width: 450px;
+    height: 480px;
+    margin-right: 20px;
+    margin-top: 150px;
+    position: relative;
+    border-radius: 20px;
+   
+}
+.description1{
+    color:#FFF1DB;
+    margin-top: -10px;
+    padding-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: #5D3A1A;
+}
+.head1{
+    padding-left: 20px;
+    color:#dbbba4;
+}
+button{
+    padding: 8px;
+    border-radius: 15px;
+    margin-left: 20px;
+    background: linear-gradient(to top right, rgba(192, 155, 85, 0.653),rgba(255, 255, 255, 0.401));
+    border: white;
+    color: #5D3A1A;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 5px;
+
+}
+button:hover {
+    transform: scale(1.05); 
+    background: linear-gradient(to top right, rgba(192, 155, 85, 0.8), rgba(255, 255, 255, 0.5)); /* Slightly darker gradient */
+}
+.room2{
+    background-image: url("/images/room2.jpg");
+    background-size: 100%;
+    width: 450px;
+    height: 480px;
+    margin-right: 20px;
+    margin-top: 150px;
+    position: relative;
+    border-radius: 20px;
+   
+}
+
+.description2{
+    color:#FFF1DB;
+    margin-top: -10px;
+    padding-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+.head2{
+    padding-left: 20px;
+    color:#dbbba4;
+
+}
+.room3{
+    background-image: url("/images/room4.jpg");
+    background-size: 100%;
+    width: 450px;
+    height: 480px;
+    margin-right: 20px;
+    margin-top: 150px;
+    position: relative;
+    border-radius: 20px;
+   
+}
+
+
+
+.description3{
+    color:#FFF1DB;
+    margin-top: -10px;
+    padding-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+.head3{
+    padding-left: 20px;
+    color:#dbbba4;
+
+}
+.facilities {
+    margin-top: 100px;
+
+    
+}
+.facilities h2{
+    text-align: center;
+    font-size: 50px;
+    color: #5D3A1A;
+    margin-top: 50px;
+    
+}
+.facilities p{
+    text-align: center;
+    font-size: 20px;
+    color: #5D3A1A; 
+    margin-top: -50px;
+    
+}
+
+
+
+
+.facilities img{
+    width: 700px;
+    height: 350px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    border-radius: 20px;
+    
+}
+.page{
+    background-color: #a77a4f7c;
+    margin-top: -100px;
+
+}
