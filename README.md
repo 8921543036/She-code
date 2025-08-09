@@ -1,47 +1,44 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Holix 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Shitt code
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Muhsina - EMEA collage Arts and science
+- Member 2: [Nasrin] -EMEA collage Arts and science 
+
 
 ### Project Description
-[2-3 lines about what your project does]
+This tool helps you find the countdown to your favorite holidays quickly and visually. Simply type the name of a holiday in the search box, and the calendar for that holiday’s month will appear with the holiday date highlighted. You will also see how many days remain until that special day, along with a short description explaining the significance or meaning of the holiday. This way, you stay informed and excited about upcoming celebrations and important dates throughout the year
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Shows how many days left in a countdown format
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Highlights the holiday date on a calendar — visually showing where the holiday falls in the month.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Html
+- Css
+- Javascript
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[Html]
 
 # Run
-[commands]
+[Html]
 
 ### Project Documentation
 For Software:
